@@ -5,8 +5,8 @@
 #include <stdio.h>
 
 int main() {
-  int POSITIONS[] = {1000, 500, 100, 50, 10, 5, 1};
-  char ROMAN[] = {'M', 'D', 'C', 'L', 'X', 'V', 'I'};
+  const int POSITIONS[] = {1000, 500, 100, 50, 10, 5, 1};
+  const char ROMAN[] = {'M', 'D', 'C', 'L', 'X', 'V', 'I'};
   
   int num;
   
