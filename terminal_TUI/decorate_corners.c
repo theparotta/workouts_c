@@ -40,10 +40,15 @@ int main() {
   refresh();
   napms(500);
   
-  // printing text in center
+  // printing text at the center
   print_center(2, "WELCOME TO WORRLD OF NCURSES");
   print_center(3, "============================");
   print_center(5, "A little man guide to Terminal User Interface");
+  
+  // to get the position of the cursor
+  int xcur, ycur;
+  getyx(stdscr, ycur, xcur);
+  mvprintw(10, 0, "The cursor is at position row: %d, col: %d", ycur, xcur);
   
   
   getch();  

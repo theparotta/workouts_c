@@ -28,14 +28,15 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=3
-FILE_NAME_0=0;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Fterminal_TUI%2Ftext_attributes.c;0;2
-FILE_NAME_1=436;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Fterminal_TUI%2Fwindow_size.c;0;2
-FILE_NAME_2=643;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Fterminal_TUI%2Fmove_curser.c;0;2
-FILE_NAME_3=1125;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Fterminal_TUI%2Fdecorate_corners.c;0;2
+current_page=4
+FILE_NAME_0=436;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Fterminal_TUI%2Fwindow_size.c;0;2
+FILE_NAME_1=286;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Ffiles.c;0;2
+FILE_NAME_2=462;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Fstruct_test.c;0;2
+FILE_NAME_3=130;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Fcurrency.c;0;2
+FILE_NAME_4=279;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Fworkout_c%2Frandom.c;0;2
 
 [VTE]
-last_dir=/home/kick/Atherton/drills/workout_c/terminal_TUI
+last_dir=/home/kick/Atherton/drills/workout_c
 
 [build-menu]
 CFT_02_LB=_Lint
